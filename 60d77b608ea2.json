@@ -16,8 +16,8 @@
       "folder_name": "Acheron",
       "mod_id": "Acheron",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_383171bf.zip",
-      "bundle_sha256": "383171bfc1ef976fc76631ce99a03672ee21ce8a4df30812de851ee6ed423373"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.4_49552eeb.zip",
+      "bundle_sha256": "49552eeb5928fed572ae00fb9432e905566f63982598245a37b10f31a092c005"
     },
     {
       "name": "BaseLib",
@@ -32,8 +32,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_ef0f287f.zip",
-      "bundle_sha256": "ef0f287fbe14a2c573fc4bb7fa3714ceee4ccbe0fef5d6347882dded7b66fe02"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.0_b9852002.zip",
+      "bundle_sha256": "b9852002d1fee9de578f27f49beff7c11de479b47e1ac6263e3b654ea8da3cfe"
     },
     {
       "name": "Better Mod Menu",
@@ -47,8 +47,8 @@
       "folder_name": "BetterModMenu",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_1b37cff6.zip",
-      "bundle_sha256": "1b37cff664b215f1dad54961a0bfc2c7ad15a95320fa691e8568843deb56a895"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_b66d0f9b.zip",
+      "bundle_sha256": "b66d0f9b8751d42c87f8694921bc1784ae8861bdc7463e5daf1e8c43923e0124"
     },
     {
       "name": "BetterSpire2",
@@ -77,8 +77,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_334158a3.zip",
-      "bundle_sha256": "334158a3c4b9bdad39c4ffff987d71d2eecc6d020eab8d6c2c722d3d27de5bf7"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_35ef6b4b.zip",
+      "bundle_sha256": "35ef6b4b480946e53cd4966fd5d4c02764d3ac5f39c8f6eb2a84604a12fffe22"
     },
     {
       "name": "CyanrainSora",
@@ -93,8 +93,8 @@
       "folder_name": "CyanrainSora",
       "mod_id": "CyanrainSora",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/CyanrainSora_v0.0.0_bd7029ed.zip",
-      "bundle_sha256": "bd7029ed8b37132fef6df33f7a35b8949f2a377839284434f9952b2394d2e1c4"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/CyanrainSora_v0.0.0_571d80e1.zip",
+      "bundle_sha256": "571d80e1a2fe801d955ad32c4726bfb72010f3dbee11c6b7d0054e0b673eec89"
     },
     {
       "name": "Faust",
@@ -109,8 +109,8 @@
       "folder_name": "Faust",
       "mod_id": "Faust",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7_251678da.zip",
-      "bundle_sha256": "251678dabb116ccafbe0d78ac53e6c457e7a427320255df3b1282d5188f83709"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7_0271482c.zip",
+      "bundle_sha256": "0271482cf9d9bf3d9c8a5bb4b6780f78ce3ef64ec93ed14b8b98497500436131"
     },
     {
       "name": "Flagellant",
@@ -123,8 +123,8 @@
       ],
       "folder_name": "Flagellant",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_4b769215.zip",
-      "bundle_sha256": "4b769215a95703bfdf63e2fe58b5e69edc4db76731b1db53a8315450ea5d4197"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Flagellant_vunknown_d8595520.zip",
+      "bundle_sha256": "d8595520c9156f0f0f517798c9e368d4bfe5910acdacf5bbe5f4169b57a1a41e"
     },
     {
       "name": "Honglu",
@@ -139,8 +139,8 @@
       "folder_name": "Honglu",
       "mod_id": "Honglu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.7_2de08543.zip",
-      "bundle_sha256": "2de085434dc81917837a596345c913136820f0965290299fa919ebf2f083670c"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Honglu_v0.1.7_1d5a2673.zip",
+      "bundle_sha256": "1d5a26737845ab3fe5e85d3b220fc3d3ba6b43da63fd6ecc0c1b8c7c3109b12a"
     },
     {
       "name": "Kafka",
@@ -155,12 +155,12 @@
       "folder_name": "Kafka",
       "mod_id": "Kafka",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_6e396bdd.zip",
-      "bundle_sha256": "6e396bdd3cb94d61d49c23bb37bcb5d377d48a0499163f8b1d0e51ca64284dc9"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.2_714e60dc.zip",
+      "bundle_sha256": "714e60dcc593ebea0fc0f462dfbc9370aca89c0ecbbb3cf8e438624529216118"
     },
     {
       "name": "RitsuLib",
-      "version": "0.4.13",
+      "version": "0.4.14",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "a4239f3f68b7a70e029eecfb39715f6a2287f173b6d6349e5145f4fd6f7518f5",
       "files": [
@@ -187,12 +187,12 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.13_8ff1ddee.zip",
-      "bundle_sha256": "8ff1ddeee727c7cc309dc105d4f34082e92ac4199ad1cf8ef20aace452aabbde"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.14_081925eb.zip",
+      "bundle_sha256": "081925eb00c328678cb61166beb79b543e7df1cf7d6f2bea76deda2e5ac626f0"
     },
     {
       "name": "Ryoshu",
-      "version": "0.3.2",
+      "version": "0.3.5",
       "source": "nexus:slaythespire2/mods/302",
       "hash": "ed50468d597c16f150f92432872359f9ddb83c5647fba92d1aa5844bd10d04a8",
       "files": [
@@ -203,8 +203,8 @@
       "folder_name": "Ryoshu",
       "mod_id": "Ryoshu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.2_e96a2ab0.zip",
-      "bundle_sha256": "e96a2ab0dcc7933551dc1e6d43ef49eaf8d2f1b7245747ffa3b1dce3ec2990a3"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.5_ce249b8a.zip",
+      "bundle_sha256": "ce249b8ab2b0afa59062566335ba69247315820b46dea550e62664b3c3859136"
     },
     {
       "name": "TheQueen",
@@ -2110,8 +2110,8 @@
       "folder_name": "TheQueen",
       "mod_id": "TheQueen",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1.1_22b76e80.zip",
-      "bundle_sha256": "22b76e8020d7f3d2979cbcc4e6c21ff68cf7b4a9d27f2dac23c0fcb19b042594"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1.1_23da3a24.zip",
+      "bundle_sha256": "23da3a242bd043fefbe0bf437c4e0a8a055937a89c392375e2fc855986bcadcb"
     },
     {
       "name": "Unified Save Path",
@@ -2126,8 +2126,8 @@
       "folder_name": "UnifiedSavePath",
       "mod_id": "UnifiedSavePath",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_80e4ea8e.zip",
-      "bundle_sha256": "80e4ea8e3283ae14fa530a1dd444d267699fb80578063c60a079530cbb01d50b"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_3db1acd3.zip",
+      "bundle_sha256": "3db1acd3135b009cdda3381e1c77af9c5687ac8420185785325a769ae9d7e67d"
     },
     {
       "name": "UnlimitedMultiplayer",
@@ -2142,8 +2142,8 @@
       "folder_name": "UnlimitedMultiplayer",
       "mod_id": "UnlimitedMultiplayer",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/UnlimitedMultiplayer_v0.2.0_f43308c5.zip",
-      "bundle_sha256": "f43308c5de44f82d3e144ead106965b0c6ddc3ba157eacee775e595f363fbc53"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/UnlimitedMultiplayer_v0.2.0_6a481ea8.zip",
+      "bundle_sha256": "6a481ea87db217ec14701226b0f06afadd881fbb53243b934dc2e5d7c5ee7563"
     },
     {
       "name": "Unlock All",
@@ -2159,8 +2159,8 @@
       "folder_name": "SlaytheSpire2.unlockAll",
       "mod_id": "UnlockAllMod",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_0f472940.zip",
-      "bundle_sha256": "0f472940631ae77ec7288209e17321b0523163a28a2b61a035f7b9774f90bd9f"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_149e2cad.zip",
+      "bundle_sha256": "149e2cada7a2c196b1c08a22996dfea554b7a1c4c6970090a818af9db73a276c"
     },
     {
       "name": "Watcher",
@@ -2175,8 +2175,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_7d968feb.zip",
-      "bundle_sha256": "7d968feb03bec44ed102c754fbcac5f13698fda280080333e4846aa5cb573c50"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.3_3ffd20da.zip",
+      "bundle_sha256": "3ffd20da41f37456a85ac4a4386053e0c9a55e1fbf33163c3e58b55f1a66f126"
     },
     {
       "name": "ZSproject",
@@ -2189,8 +2189,8 @@
       ],
       "folder_name": "The Reaper - For main branch-412-0-48fix-1779282281",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/ZSproject_vunknown_e4bd6a1b.zip",
-      "bundle_sha256": "e4bd6a1b7f3752526f5596bf3954458dc09d91c8a263fd0e6e368553c5cf6786"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/ZSproject_vunknown_672e0b79.zip",
+      "bundle_sha256": "672e0b79bcb2745498a70fbafd03efb4798f82253d95274de3b396bb7a9576a9"
     },
     {
       "name": "皮皮统计: Skada",
@@ -2205,8 +2205,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.5_4b2fbe59.zip",
-      "bundle_sha256": "4b2fbe5912660949645652584fde29c9667f05a4fd222e88e1042dd978b06fc1"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.5_08b0250d.zip",
+      "bundle_sha256": "08b0250d50f77ba3ff5c76cdc7d8680bf163efa63dff000a727255e1f2bd5eb4"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -2221,11 +2221,42 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_9f57b9b3.zip",
-      "bundle_sha256": "9f57b9b3553b3a3c10a2e1b4018843525e24a36629fd362384e5d0fa3fcc261a"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_64578c7a.zip",
+      "bundle_sha256": "64578c7a94d2c35b2584b34c9c7de793ef843d1a1083de6dd0762c63ccc5a5ae"
+    },
+    {
+      "name": "Show Player Hand Cards",
+      "version": "0.6.2",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "32afc06de16ae1ad966f173158dbc00a0f8c45f2cf4447486d400770fd2259bb",
+      "files": [
+        "STS2-ShowPlayerHandCards\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_9a4fffc2.zip",
+      "bundle_sha256": "9a4fffc221ef2aeb746e7a200775dab6dfdc7dd93de0ff8d793c014823bbc355"
+    },
+    {
+      "name": "RouteSuggest",
+      "version": "1.11.0",
+      "source": "nexus:slaythespire2/mods/54",
+      "hash": "b1d2228b21e56de1848ae2534d09dbf53d96133055daf5ffacab84032f2867df",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0_6286a31f.zip",
+      "bundle_sha256": "6286a31f6ffa883e8f7438887410929e2d0acb54c2bc5604c179defafbfa563b"
     }
   ],
   "created_at": "2026-06-08T09:46:46.823025400Z",
-  "updated_at": "2026-06-08T12:32:37.454086400Z",
+  "updated_at": "2026-06-09T07:09:12.632089300Z",
   "public": false
 }
