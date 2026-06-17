@@ -2324,9 +2324,25 @@
       "enabled": true,
       "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/_v0.3.9_d3c3edea.zip",
       "bundle_sha256": "d3c3edea69a21b6d92259dff22d550c5061cbe2f79be867ddbac37432cc3b58f"
+    },
+    {
+      "name": "Evanescia",
+      "version": "v0.2.1",
+      "source": "nexus:slaythespire2/mods/1298",
+      "hash": "4b4a105dc8c15a2a8e9da6f313ec8494ab9a237fd224e706c16fd1b388d9e46e",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.1_fb0335b0.zip",
+      "bundle_sha256": "fb0335b0ecfda2909549cf33cece13ab8f4d536c6fa8b58cf095ff531224327c"
     }
   ],
   "created_at": "2026-06-08T09:46:46.823025400Z",
-  "updated_at": "2026-06-17T06:18:38.472610100Z",
+  "updated_at": "2026-06-17T19:06:45.974939800Z",
   "public": false
 }
