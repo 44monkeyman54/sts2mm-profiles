@@ -79,6 +79,7 @@
         "BetterModMenu\\backups\\mod_profiles.20260617-043432.runstart.json",
         "BetterModMenu\\backups\\mod_profiles.20260617-043839.resume.json",
         "BetterModMenu\\backups\\mod_profiles.20260617-060945.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260617-061512.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122404.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122445.resume.json",
         "BetterModMenu\\backups\\mod_settings.20260608-123053.runstart.json",
@@ -116,6 +117,7 @@
         "BetterModMenu\\backups\\mod_settings.20260617-043432.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260617-043839.resume.json",
         "BetterModMenu\\backups\\mod_settings.20260617-060945.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260617-061512.runstart.json",
         "BetterModMenu\\BetterModMenu.dll",
         "BetterModMenu\\BetterModMenu.json",
         "BetterModMenu\\mod_profiles.json"
@@ -123,8 +125,8 @@
       "folder_name": "BetterModMenu",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_e92cc133.zip",
-      "bundle_sha256": "e92cc133c0e9cc57c074b81f4d3ad5f2b67f3556d28b8d2ae7a12c37c83565c1"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_f6791b67.zip",
+      "bundle_sha256": "f6791b67d3f9bbd95625786963251050b979b18f0fb925c75de8f09e98a628d9"
     },
     {
       "name": "BetterSpire2",
@@ -2322,27 +2324,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/_v0.3.9_d3c3edea.zip",
       "bundle_sha256": "d3c3edea69a21b6d92259dff22d550c5061cbe2f79be867ddbac37432cc3b58f"
-    },
-    {
-      "name": "黑夜统治",
-      "version": "1.0",
-      "source": "nexus:slaythespire2/mods/890",
-      "hash": "4decbd843de7c390e217f8378db5cdf11169ddc24e517629583a334123283184",
-      "files": [
-        "nightreign\\map\\map.json",
-        "nightreign\\map\\map_01.json",
-        "nightreign\\map\\map_02.json",
-        "nightreign\\nightreign.dll",
-        "nightreign\\nightreign.json"
-      ],
-      "folder_name": "nightreign",
-      "mod_id": "nightreign",
-      "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/_v1.0_40497819.zip",
-      "bundle_sha256": "40497819ff641f08a93c88c4baf0b339c1c801d7f91251f9fe8f69318670f25c"
     }
   ],
   "created_at": "2026-06-08T09:46:46.823025400Z",
-  "updated_at": "2026-06-17T06:13:56.162766500Z",
+  "updated_at": "2026-06-17T06:18:38.472610100Z",
   "public": false
 }
