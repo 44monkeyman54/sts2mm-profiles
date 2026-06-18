@@ -8,7 +8,7 @@
       "name": "Acheron",
       "version": "v0.4.6",
       "source": "nexus:slaythespire2/mods/1030",
-      "hash": "5893f014570c6c739622c7d97ab78d9c618e58d612a4a05571fc82931089167e",
+      "hash": "ab0206f9cec1b8960052d487e30fe672089a01049044ca3a757e6d88c34365bb",
       "files": [
         "Acheron\\Acheron.dll",
         "Acheron\\Acheron.json",
@@ -24,7 +24,7 @@
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
-      "hash": "cb6b2eccea2fab44ecebd6346fc6d6448537197bcda863b71ac040cb86484e8a",
+      "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
       "files": [
         "BaseLib\\BaseLib.dll",
         "BaseLib\\BaseLib.json",
@@ -80,6 +80,15 @@
         "BetterModMenu\\backups\\mod_profiles.20260617-043839.resume.json",
         "BetterModMenu\\backups\\mod_profiles.20260617-060945.runstart.json",
         "BetterModMenu\\backups\\mod_profiles.20260617-061512.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-164313.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-164353.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-164616.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-164740.resume.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-165108.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-165138.resume.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-183749.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-190700.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-191739.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122404.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122445.resume.json",
         "BetterModMenu\\backups\\mod_settings.20260608-123053.runstart.json",
@@ -118,6 +127,15 @@
         "BetterModMenu\\backups\\mod_settings.20260617-043839.resume.json",
         "BetterModMenu\\backups\\mod_settings.20260617-060945.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260617-061512.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-164313.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-164353.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-164616.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-164740.resume.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-165108.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-165138.resume.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-183749.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-190700.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-191739.runstart.json",
         "BetterModMenu\\BetterModMenu.dll",
         "BetterModMenu\\BetterModMenu.json",
         "BetterModMenu\\mod_profiles.json"
@@ -125,14 +143,14 @@
       "folder_name": "BetterModMenu",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_f6791b67.zip",
-      "bundle_sha256": "f6791b67d3f9bbd95625786963251050b979b18f0fb925c75de8f09e98a628d9"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_16d4435b.zip",
+      "bundle_sha256": "16d4435bf3d1ea492b154ecc15f5593c6ab2d05c0bc8efc7a265cfc35109f1e0"
     },
     {
       "name": "BetterSpire2",
-      "version": "v1.83.1",
+      "version": "v1.83.2",
       "source": "github:AlecRichardson/BetterSpire2",
-      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
+      "hash": "3576938d6036682c4fb71515f5caa8b1023b2f4e57c8acb46b2af5fcddb67447",
       "files": [
         "BetterSpire2\\BetterSpire2.dll",
         "BetterSpire2\\BetterSpire2.json",
@@ -155,8 +173,8 @@
       "folder_name": "BetterSpire2",
       "mod_id": "BetterSpire2",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_733146bf.zip",
-      "bundle_sha256": "733146bf7802ed9a07b53dbd038c780f82628aed7e7ee7c3ece91a71579b279d"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.2_09a98c26.zip",
+      "bundle_sha256": "09a98c265da723783d44b3c367b05a82c2a2bb31805fd7faa2343ccd7d5ff6b3"
     },
     {
       "name": "CyanrainSora",
@@ -210,7 +228,7 @@
       "name": "Kafka",
       "version": "v0.12.4",
       "source": "nexus:slaythespire2/mods/1029",
-      "hash": "3fe3981e68f9acc3066e46f0ca9885713f1a85a9347c2365fe3a40361e8194ac",
+      "hash": "d388e2af6ec8505783856e32fcf617d21fc8e1f9cefedd8fc0fcfef44d2bd543",
       "files": [
         "Kafka\\Kafka.dll",
         "Kafka\\Kafka.json",
@@ -226,7 +244,7 @@
       "name": "RitsuLib",
       "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "a4239f3f68b7a70e029eecfb39715f6a2287f173b6d6349e5145f4fd6f7518f5",
+      "hash": "c4e518ace74a50c1ecc2fbfb977d9dc94bfa929e2245d64ae29358626e1769f9",
       "files": [
         "STS2-RitsuLib\\lib\\0.103.2\\compat-target.txt",
         "STS2-RitsuLib\\lib\\0.103.2\\STS2-RitsuLib.dll",
@@ -275,7 +293,7 @@
       "name": "Ryoshu",
       "version": "0.3.5",
       "source": "nexus:slaythespire2/mods/302",
-      "hash": "ed50468d597c16f150f92432872359f9ddb83c5647fba92d1aa5844bd10d04a8",
+      "hash": "064318070a7833638d504e5509bb87a131779b9c4228954ba8f9d8b108438f2a",
       "files": [
         "Ryoshu\\Ryoshu.dll",
         "Ryoshu\\Ryoshu.json",
@@ -2343,6 +2361,6 @@
     }
   ],
   "created_at": "2026-06-08T09:46:46.823025400Z",
-  "updated_at": "2026-06-17T19:06:45.974939800Z",
+  "updated_at": "2026-06-18T17:36:15.145709800Z",
   "public": false
 }
