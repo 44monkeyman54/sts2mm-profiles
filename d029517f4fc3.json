@@ -5,6 +5,7 @@
   "created_by": "44monkeyman54",
   "mods": [
     {
+      "mod_version_id": "09a70d17-7502-416c-a270-9cd9e4bba029",
       "name": "Acheron",
       "version": "v0.4.6",
       "source": "nexus:slaythespire2/mods/1030",
@@ -21,6 +22,7 @@
       "bundle_sha256": "5c9bbb1db838c760b52a308af380df9de3be2b94de85dd49fc1b3d3556758bc6"
     },
     {
+      "mod_version_id": "2cd51632-782d-4d28-b046-d9cefb2fa061",
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
@@ -37,6 +39,7 @@
       "bundle_sha256": "a7df565a3fc2b5726652ebc266e0c27f972627c80c81455e4c6bf744d7a7900e"
     },
     {
+      "mod_version_id": "e567c6a7-8d89-4ec5-b803-13cab97fc179",
       "name": "Better Mod Menu",
       "version": "0.0.6",
       "source": "github:Hellfrosted/BetterModMenu",
@@ -90,6 +93,7 @@
         "BetterModMenu\\backups\\mod_profiles.20260618-190700.runstart.json",
         "BetterModMenu\\backups\\mod_profiles.20260618-191739.runstart.json",
         "BetterModMenu\\backups\\mod_profiles.20260618-194316.runstart.json",
+        "BetterModMenu\\backups\\mod_profiles.20260618-194813.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122404.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260608-122445.resume.json",
         "BetterModMenu\\backups\\mod_settings.20260608-123053.runstart.json",
@@ -138,6 +142,7 @@
         "BetterModMenu\\backups\\mod_settings.20260618-190700.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260618-191739.runstart.json",
         "BetterModMenu\\backups\\mod_settings.20260618-194316.runstart.json",
+        "BetterModMenu\\backups\\mod_settings.20260618-194813.runstart.json",
         "BetterModMenu\\BetterModMenu.dll",
         "BetterModMenu\\BetterModMenu.json",
         "BetterModMenu\\mod_profiles.json"
@@ -145,10 +150,11 @@
       "folder_name": "BetterModMenu",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_67a3d479.zip",
-      "bundle_sha256": "67a3d47990f7d004dd22aceed75356db31a178c0aeb0d2c49cc09f50f0b891fc"
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_932f81c5.zip",
+      "bundle_sha256": "932f81c504b36bed64580ac340259f707e25a2847c544e78893bc5cf5f89ef08"
     },
     {
+      "mod_version_id": "54c5e03f-e1a6-4743-967f-97c098749496",
       "name": "BetterSpire2",
       "version": "v1.83.2",
       "source": "github:AlecRichardson/BetterSpire2",
@@ -179,6 +185,7 @@
       "bundle_sha256": "09a98c265da723783d44b3c367b05a82c2a2bb31805fd7faa2343ccd7d5ff6b3"
     },
     {
+      "mod_version_id": "8d826672-5984-495a-8583-6de0bc8c9f1c",
       "name": "Evanescia",
       "version": "v0.2.1",
       "source": "nexus:slaythespire2/mods/1298",
@@ -195,6 +202,7 @@
       "bundle_sha256": "fb0335b0ecfda2909549cf33cece13ab8f4d536c6fa8b58cf095ff531224327c"
     },
     {
+      "mod_version_id": "787d7d4b-a470-4f6c-993c-1f9b5e53924b",
       "name": "Kafka",
       "version": "v0.12.4",
       "source": "nexus:slaythespire2/mods/1029",
@@ -211,6 +219,7 @@
       "bundle_sha256": "557588a31cd22a36c95549ed0d8afdfbf2ad767649a6032fc72260a07b3f10cf"
     },
     {
+      "mod_version_id": "e2e3cba0-0ca9-4d4f-a312-d3eeb9e6f3a4",
       "name": "RitsuLib",
       "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
@@ -243,6 +252,7 @@
       "bundle_sha256": "16ec96ab140e6e9398896d0464e50fe75e2b9df58569c42d4a2799509946926b"
     },
     {
+      "mod_version_id": "980e90e2-7722-4722-b04f-0333592dd1ca",
       "name": "RouteSuggest",
       "version": "1.11.0",
       "source": "nexus:slaythespire2/mods/54",
@@ -260,6 +270,7 @@
       "bundle_sha256": "88fcf955cad8209c40b972f50088c943a7c780130cfad6e51236002abf20091c"
     },
     {
+      "mod_version_id": "b6b92efb-bda7-4028-89bb-86bcfaaba291",
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": "nexus:slaythespire2/mods/6",
@@ -276,6 +287,7 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
+      "mod_version_id": "5f70fb2e-f6d0-4fc8-85c2-6ff79a31b4f2",
       "name": "UnlimitedMultiplayer",
       "version": "v0.2.0",
       "source": "nexus:slaythespire2/mods/66",
@@ -292,6 +304,7 @@
       "bundle_sha256": "533415212c2a49d900a6f46d2c532b32140cbce6d9a588ea94867b678f8dcf34"
     },
     {
+      "mod_version_id": "6bc50ab8-f057-4594-8a68-0da4e1b49fa6",
       "name": "Unlock All",
       "version": "0.1.0",
       "source": "nexus:slaythespire2/mods/253",
@@ -309,6 +322,7 @@
       "bundle_sha256": "7137929321cc50adf7c8ce797002887c12f9e8e2e7a7e196d0e1a018c946b6c3"
     },
     {
+      "mod_version_id": "8f3708c1-80b4-41f7-a396-22d9634867bd",
       "name": "皮皮统计: Skada",
       "version": "1.14.5",
       "source": "nexus:slaythespire2/mods/33",
@@ -325,6 +339,7 @@
       "bundle_sha256": "2d0e984bfcb100cccfda8bf1f6713b7692234a18ee44f3bc460d67dc6a9d9468"
     },
     {
+      "mod_version_id": "adc05b38-0cfe-42b5-ab6e-f8ecad0cf443",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
       "source": "github:xhyrzldf/ModConfig-STS2",
@@ -341,22 +356,7 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
-      "name": "Ancients Awakened",
-      "version": "v1.2.5",
-      "source": "nexus:slaythespire2/mods/711",
-      "hash": "dc4c27d7688dd6762ee25a49c20398b5fc8b4e7bcbe482ecc93006bee6479cb9",
-      "files": [
-        "AncientsAwakened\\AncientsAwakened.dll",
-        "AncientsAwakened\\AncientsAwakened.json",
-        "AncientsAwakened\\AncientsAwakened.pck"
-      ],
-      "folder_name": "AncientsAwakened",
-      "mod_id": "AncientsAwakened",
-      "enabled": true,
-      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.5_a2d35e92.zip",
-      "bundle_sha256": "a2d35e92413b587794fab7bb475bfe2bcc58e573a163a3844453f07be41d1ed7"
-    },
-    {
+      "mod_version_id": "6636996e-020a-447d-874f-6f2363c844cd",
       "name": "Spirecraft",
       "version": "3.0.10",
       "source": "nexus:slaythespire2/mods/354",
@@ -374,6 +374,6 @@
     }
   ],
   "created_at": "2026-06-18T17:31:00.778033200Z",
-  "updated_at": "2026-06-18T19:26:47.896710800Z",
+  "updated_at": "2026-06-18T19:48:57.846390500Z",
   "public": false
 }
