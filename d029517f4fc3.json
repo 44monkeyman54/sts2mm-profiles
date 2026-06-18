@@ -341,6 +341,22 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
+      "name": "Ancients Awakened",
+      "version": "v1.2.5",
+      "source": "nexus:slaythespire2/mods/711",
+      "hash": "dc4c27d7688dd6762ee25a49c20398b5fc8b4e7bcbe482ecc93006bee6479cb9",
+      "files": [
+        "AncientsAwakened\\AncientsAwakened.dll",
+        "AncientsAwakened\\AncientsAwakened.json",
+        "AncientsAwakened\\AncientsAwakened.pck"
+      ],
+      "folder_name": "AncientsAwakened",
+      "mod_id": "AncientsAwakened",
+      "enabled": true,
+      "bundle_url": "https://github.com/44monkeyman54/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.5_a2d35e92.zip",
+      "bundle_sha256": "a2d35e92413b587794fab7bb475bfe2bcc58e573a163a3844453f07be41d1ed7"
+    },
+    {
       "name": "Spirecraft",
       "version": "3.0.10",
       "source": "nexus:slaythespire2/mods/354",
